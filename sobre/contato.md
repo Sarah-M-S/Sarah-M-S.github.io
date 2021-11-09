@@ -1,6 +1,8 @@
 
-|[Home](https://sarah-m-s.github.io) | [Contato](https://sarah-m-s.github.io/sobre/contato) |
+|  [ Home](https://sarah-m-s.github.io)   | [ Contato](https://sarah-m-s.github.io/sobre/contato) |
 | ----------- | ----------- |
+|     |   |
+| |  |
 
 
 # Fale comigo através dos seguintes canais:
