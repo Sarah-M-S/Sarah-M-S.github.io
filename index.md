@@ -4,7 +4,7 @@
 2.  [ **Contato**](https://sarah-m-s.github.io/sobre/contato) 
 
 
-#               > Olá! Eu sou a Sarah 
+#               Olá! Eu sou a Sarah 
 
 
 
