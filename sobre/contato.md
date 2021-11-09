@@ -1,7 +1,3 @@
-layout: page
-title: "Contato"
-permalink: /https://sarah-m-s.github.io/sobre/contato/
-
 # Fale comigo através dos seguintes canais:
 
 1. **Whatsapp:** 9000 00000
