@@ -2,9 +2,10 @@
 
 site teste
 
-# Olá! Eu sou a Sarah 
+|[Home](https://sarah-m-s.github.io) | [Contato](https://sarah-m-s.github.io/sobre/contato) |
+| ----------- | ----------- |
 
-## [Contato](https://sarah-m-s.github.io/sobre/contato)
+# Olá! Eu sou a Sarah 
 
 
 | Sobre mim   |             |
