@@ -1,10 +1,7 @@
-
-
-
 |  [ Home](https://sarah-m-s.github.io)   | [ Contato](https://sarah-m-s.github.io/sobre/contato) |
 | ----------- | ----------- |
 | |   |
-| |  |
+
 
 
 
