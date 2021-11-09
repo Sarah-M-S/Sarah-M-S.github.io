@@ -1,11 +1,10 @@
-|  [ Home](https://sarah-m-s.github.io)   | [ Contato](https://sarah-m-s.github.io/sobre/contato) |
-| ----------- | ----------- |
-| |   |
 
 
+1.  [ **Home**](https://sarah-m-s.github.io)
+2.  [ **Contato**](https://sarah-m-s.github.io/sobre/contato) 
 
 
-# Olá! Eu sou a Sarah 
+#               > Olá! Eu sou a Sarah 
 
 
 
